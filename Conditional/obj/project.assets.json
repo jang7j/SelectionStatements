@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hwait\\Desktop\\repos\\Conditional\\Conditional\\SelectionStatements.csproj",
+      "projectUniqueName": "C:\\Users\\hwait\\Desktop\\repos\\SelectionStatements\\Conditional\\SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "C:\\Users\\hwait\\Desktop\\repos\\Conditional\\Conditional\\SelectionStatements.csproj",
+      "projectPath": "C:\\Users\\hwait\\Desktop\\repos\\SelectionStatements\\Conditional\\SelectionStatements.csproj",
       "packagesPath": "C:\\Users\\hwait\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hwait\\Desktop\\repos\\Conditional\\Conditional\\obj\\",
+      "outputPath": "C:\\Users\\hwait\\Desktop\\repos\\SelectionStatements\\Conditional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hwait\\AppData\\Roaming\\NuGet\\NuGet.Config",
